@@ -1,4 +1,4 @@
 from main import minion_game
 
-s = input()
-minion_game(s)
+s = input('Your Word: ')
+print(minion_game(s))
