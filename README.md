@@ -1,4 +1,4 @@
-# Hacker Rank Exercises
+ Hacker Rank Exercises
 
 This repo contains all the exercises I do on Hacker Rank
 
